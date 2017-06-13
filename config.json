@@ -1,0 +1,5 @@
+{
+  "basefile": "restaurant.json",
+  "sourcepath": "data/",
+  "destpath": "data/contents/"
+}
